@@ -1,5 +1,7 @@
 # when you available
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/aunysillyme-dev/wya/badge)](https://scorecard.dev/viewer/?uri=github.com/aunysillyme-dev/wya)
+
 A group meeting coordinator that closes the loop — built for
 [Cortex Research Group](https://campai.cortexresearch.group), Season 2 Episode 5.
 
